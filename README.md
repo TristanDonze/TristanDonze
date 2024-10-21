@@ -24,8 +24,11 @@ This year, I'm diving deep into a diverse range of AI topics:
 - **Computer Vision: from Fundamentals to Applications**: Exploring generative AI (image generation from text, VAE, Diffusion models, Stable Diffusion), Vision Transformers, and self-supervised learning.
 
 ## Current Reading List
-Here's a list of Research Paper I'm currently reading, nothing really original here I'm starting with the basics ;)
+### Here's a list of Research Paper I'm currently reading, nothing really original here I'm starting with the basics ;)
 
 - [**Attention Is All You Need** ](https://arxiv.org/pdf/1706.03762)
 - [**TruthfulQA: Measuring How Models Mimic Human Falsehoods**](https://arxiv.org/pdf/2109.07958)
 - [**Concrete Problems in AI Safety**](https://arxiv.org/pdf/1606.06565)
+
+### And Books I'm using to follow courses 
+- [**An Introduction To Statisical Learning**](https://www.statlearning.com/)
